@@ -1,0 +1,2 @@
+Создание Команда ls
+script1 Скрипт /home/makarov/project/ssh-project/scripts/script1.sh
